@@ -1,0 +1,10 @@
+.img1{
+    
+    background-color: 1px solid black;
+    border-radius: 10px;
+    transition: transform 1.86 ease-in-out;
+}
+.img1:hover{
+    transform: scale(1.2);
+
+}
