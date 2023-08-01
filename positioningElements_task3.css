@@ -1,0 +1,31 @@
+
+
+.div1{
+    border: solid black;
+
+    
+
+}
+.div2{
+    position: relative;
+    top:10px;
+    right:10px;
+    float:right;
+
+    
+
+}
+.div3{
+    position:relative;
+    bottom:15px;
+    left:15px;
+}
+.div4{
+    position: relative;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    
+}
+
+
